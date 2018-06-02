@@ -9,13 +9,11 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ## [Ask a question](../../issues/new) :question: | [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden) :eyes:
 
-## Is Email still Ok?
+## Is email OK?
 
 Yes, its perfectly fine. But I am always on GitHub, and respond faster here. And with the amount of spam these days, its easy to miss an important email such as yours :neutral_face: !
 
-If you prefer email, do not hesitate to drop your query either [publicly](mailto:ama+email@raisedadead.com) or [anonymously](mailto:ama+anon@raisedadead.com). I will post them here for you (redacting as much details as I can erring as a human).
-
-Note: Much of this is automated with my mail filters, so the subject line will always be public (including anon mails).
+If you prefer email, do not hesitate to drop your query `ama[at]raisedadead[dot]com`. I will post them here for you (redacting as much details as I can erring as a human).
 
 ---
 
