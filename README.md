@@ -2,7 +2,7 @@
 
 Hello There!
 
-Thanks a lot for getting in touch with me! This is my AMA.
+Thanks a lot for getting in touch with me! This is me AMA.
 
 I get a lot of questions by email. This way anyone can read the answer!
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
