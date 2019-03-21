@@ -12,7 +12,7 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ## Other ways to reachout to me:
 
-### Is email OK? I am not keen on a public forum.
+### Is email OK?:
 
 Yes, its fine. But GitHub is the fastest way to reachout to me. With the amount of spam these days, its easy to miss an important email such as yours :neutral_face:!
 
@@ -20,7 +20,7 @@ If you prefer email, do not hesitate to drop your query `ama[at]raisedadead[dot]
 
 ### How about Twitter?
 
-Yes, twitter is cool too. My DMs, are open. And while, you are there, give me a follow :wink:.
+Yes, why not? My DMs are open. Give me a follow :wink:. I tweet (and retweet fun stuff).
 
 > <https://twitter.com/raisedadead>
 
