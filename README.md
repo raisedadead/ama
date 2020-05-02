@@ -7,7 +7,7 @@ Thanks a lot for getting in touch with me! This is my [AMA](https://en.wikipedia
 I get a lot of questions by email. This way anyone can read the answer!
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
-| :question: [Ask a question ](../../issues/new) 	| :open_book: [Read questions ](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden) 	|
+| :question: [Ask a question ](../../issues/new) 	| :open_book: [Read questions ](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden%20-label%3Ainvalid) 	|
 |:----------------------------------------------:	|:-----------------------------------------------------------------------------------------------------------------------------:	|
 
 ## Other ways to reachout to me:
