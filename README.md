@@ -17,13 +17,11 @@ Anything means _anything_. Personal questions. Money. Work. Life. Code. Whatever
 
 Absolutely, but please be patient. I do get a ton of emails, notifications & alerts. With the amount of spam these days, its easy to miss an important email such as yours! 🤷🏽‍♂️
 
-**GitHub is the fastest way to reachout**.
-
-[Consider a public ama](https://github.com/raisedadead/ama/issues/new), if your query does not warrant email. I will try and post some of the queries here redacting as much as I can for benefit of others.
+**GitHub is the fastest way to reachout**. [Consider a public ama](https://github.com/raisedadead/ama/issues/new), if your query does not warrant email. 
 
 Note: Pitching me a service, product or similar for my employer will be ignored straight up, so don't bother.
 
-Email me here: `ama [at] raisedadead .com` | `mrugesh [@] freecodecamp.org`
+Email me here: `ama [at] raisedadead .com` | `mrugesh [@] freecodecamp.org`, I will try and post some of the queries here redacting as much as I can for benefit of others.
 
 ### How about Twitter?
 
