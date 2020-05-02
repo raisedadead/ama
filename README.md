@@ -1,26 +1,33 @@
 # Ask me anything!
 
-Hello There!
+Hello there! 👋
 
 Thanks a lot for getting in touch with me! This is my [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA).
 
 I get a lot of questions by email. This way anyone can read the answer!
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+Anything means _anything_. Personal questions. Money. Work. Life. Code. Whatever.
 
-| :question: [Ask a question ](../../issues/new) 	| :open_book: [Read questions ](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden%20-label%3Ainvalid) 	|
-|:----------------------------------------------:	|:-----------------------------------------------------------------------------------------------------------------------------:	|
+| [Ask a question ](https://github.com/raisedadead/ama/issues/new) 🤔 | [Read questions ](https://github.com/raisedadead/ama/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden%20-label%3Ainvalid) 🤓 |
+| :------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## Other ways to reachout to me:
 
-### Is email OK?:
+## Other ways to connect:
 
-Yes, its fine. But GitHub is the fastest way to reachout to me. With the amount of spam these days, its easy to miss an important email such as yours :neutral_face:!
+### Do you do Emails?
 
-If you prefer email, do not hesitate to drop your query `ama[at]raisedadead[dot]com`. I will post them here for you (redacting as much details as I can erring as a human).
+Absolutely, but please be patient. I do get a ton of emails, notifications & alerts. With the amount of spam these days, its easy to miss an important email such as yours! 🤷🏽‍♂️
+
+**GitHub is the fastest way to reachout**.
+
+[Consider a public ama](https://github.com/raisedadead/ama/issues/new), if your query does not warrant email. I will try and post some of the queries here redacting as much as I can for benefit of others.
+
+Note: Pitching me a service, product or similar for my employer will be ignored straight up, so don't bother.
+
+Email me here: `ama [at] raisedadead .com` | `mrugesh [@] freecodecamp.org`
 
 ### How about Twitter?
 
-Yes, why not? My DMs are open. Give me a follow :wink:. I tweet (and retweet fun stuff).
+Yes, why not? My DMs are open. Give me a follow 😉. I tweet (and retweet fun stuff).
 
 > <https://twitter.com/raisedadead>
 
