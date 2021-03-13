@@ -7,7 +7,7 @@ Thanks a lot for getting in touch with me! This is my [AMA](https://en.wikipedia
 I get a lot of questions by email. This way anyone can read the answer!
 Anything means _anything_. Personal questions. Money. Work. Life. Code. Whatever.
 
-| [Ask a question ](https://github.com/raisedadead/ama/issues/new) 🤔 | [Read questions ](https://github.com/raisedadead/ama/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden%20-label%3Ainvalid) 🤓 |
+| [Ask a question ](https://github.com/raisedadead/ama/discussions/new) 🤔 | [Read questions ](https://github.com/raisedadead/ama/discussions) 🤓 |
 | :------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
