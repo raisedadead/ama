@@ -4,8 +4,7 @@ Hello there! 👋
 
 Thanks a lot for getting in touch with me! This is my [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA).
 
-I get a lot of questions by email. This way anyone can read the answer!
-Anything means _anything_. Personal questions. Money. Work. Life. Code. Whatever.
+I get a lot of questions by email, twitter DMs and chat. This way anyone can read the answer! Anything means _anything_. Personal questions. Money. Work. Life. Code. Whatever.
 
 | [Ask a question ](https://github.com/raisedadead/ama/discussions/new) 🤔 | [Read questions ](https://github.com/raisedadead/ama/discussions) 🤓 |
 | :------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,7 +16,9 @@ Anything means _anything_. Personal questions. Money. Work. Life. Code. Whatever
 
 Absolutely, but please be patient. I do get a ton of emails, notifications & alerts. With the amount of spam these days, its easy to miss an important email such as yours! 🤷🏽‍♂️
 
-**GitHub is the fastest way to reachout**. [Consider a public ama](https://github.com/raisedadead/ama/issues/new), if your query does not warrant email. 
+**GitHub is the fastest way to reachout**. 
+
+Please [consider a public ama](https://github.com/raisedadead/ama/discussions/new), if your query does not warrant email. 
 
 Note: Pitching me a service, product or similar for my employer will be ignored straight up, so don't bother.
 
@@ -25,7 +26,7 @@ Email me here: `ama [at] raisedadead .com` | `mrugesh [@] freecodecamp.org`, I w
 
 ### How about Twitter?
 
-Yes, why not? My DMs are open. Give me a follow 😉. I tweet (and retweet fun stuff).
+Yes, why not? My DMs are open. Give me a follow 😉. Sometimes I tweet (and retweet fun stuff).
 
 > <https://twitter.com/raisedadead>
 
